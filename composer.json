@@ -39,7 +39,6 @@
         "php": ">=5.3.3"
     },
     "require-dev": {
-        "json-schema/JSON-Schema-Test-Suite": "1.2.0",
         "phpunit/phpunit": "^4.8.22",
         "phpdocumentor/phpdocumentor": "~2"
     },
